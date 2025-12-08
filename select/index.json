@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "零光",
+  "base_artist": "宮野真守",
+  "createdAt": "2025-12-08T15:18:15.471167Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "零光",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_01_零光_宮野_真守.txt"
+    }
+  ]
+}
